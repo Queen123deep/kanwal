@@ -146,7 +146,7 @@ section{
 .follow a{
    font-size: 3rem;
 padding:1rem;
-   margin:0 2rem;
+   margin:0 1rem;
    cursor: pointer;
    transition: .6s linear !important;
 }
